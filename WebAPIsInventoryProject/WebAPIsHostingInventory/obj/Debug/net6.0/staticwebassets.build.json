@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LdGUNcWxgMfg2uVnIZ0Sg6IeM5bJhIHol556vBVg2Bk=",
+  "Source": "WebAPIsHostingInventory",
+  "BasePath": "_content/WebAPIsHostingInventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

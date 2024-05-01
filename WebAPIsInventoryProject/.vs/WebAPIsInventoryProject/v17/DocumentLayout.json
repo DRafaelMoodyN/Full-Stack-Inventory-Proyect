@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalEntryPoint.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\LocalEntryPoint.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\LocalEntryPoint.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\LocalEntryPoint.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\LocalEntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:09:19.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Startup.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:09:10.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:03:39.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

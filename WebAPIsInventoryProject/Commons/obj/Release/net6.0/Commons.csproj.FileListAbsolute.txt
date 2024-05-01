@@ -1,0 +1,14 @@
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\bin\Release\net6.0\Commons.deps.json
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\bin\Release\net6.0\Commons.runtimeconfig.json
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\bin\Release\net6.0\Commons.dll
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\bin\Release\net6.0\Commons.pdb
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.AssemblyInfoInputs.cache
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.AssemblyInfo.cs
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.csproj.CoreCompileInputs.cache
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.sourcelink.json
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.dll
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\refint\Commons.dll
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.pdb
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\Commons.genruntimeconfig.cache
+C:\Programacion\Projectos\Full-Stack-Inventory-Proyect\WebAPIsInventoryProject\Commons\obj\Release\net6.0\ref\Commons.dll
