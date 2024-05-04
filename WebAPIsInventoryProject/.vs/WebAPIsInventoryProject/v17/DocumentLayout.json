@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\localentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\configurations\\extension\\servicesextension\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\configurations\\extension\\servicesextension\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1088CF88-E33A-41BC-B199-7DB25742C614}|Models\\Models.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\models\\context\\wmsproyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1088CF88-E33A-41BC-B199-7DB25742C614}|Models\\Models.csproj|solutionrelative:models\\context\\wmsproyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|c:\\programacion\\projectos\\full-stack-inventory-proyect\\webapisinventoryproject\\webapishostinginventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDBF63DC-4B2F-4CF0-87C6-8810672308AD}|WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj|solutionrelative:webapishostinginventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LocalEntryPoint.cs",
-              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\LocalEntryPoint.cs",
-              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\LocalEntryPoint.cs",
-              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\LocalEntryPoint.cs",
-              "RelativeToolTip": "WebAPIsHostingInventory\\LocalEntryPoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\GlobalUsing.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\GlobalUsing.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:09:19.385Z",
+              "WhenOpened": "2024-05-04T03:59:49.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Startup.cs",
-              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
-              "RelativeToolTip": "WebAPIsHostingInventory\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:09:10.145Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\appsettings.Development.json",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPIsHostingInventory\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T03:57:20.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "WebAPIsHostingInventory\\Controllers\\ValuesController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAgAAAADAAAA",
+              "Title": "WmsProyectoContext.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\Models\\Context\\WmsProyectoContext.cs",
+              "RelativeDocumentMoniker": "Models\\Context\\WmsProyectoContext.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\Models\\Context\\WmsProyectoContext.cs",
+              "RelativeToolTip": "Models\\Context\\WmsProyectoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:03:39.763Z",
+              "WhenOpened": "2024-05-04T03:56:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Startup.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Startup.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:54:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesExtension.cs",
+              "DocumentMoniker": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Configurations\\Extension\\ServicesExtension\\ServicesExtension.cs",
+              "RelativeDocumentMoniker": "WebAPIsHostingInventory\\Configurations\\Extension\\ServicesExtension\\ServicesExtension.cs",
+              "ToolTip": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\Configurations\\Extension\\ServicesExtension\\ServicesExtension.cs",
+              "RelativeToolTip": "WebAPIsHostingInventory\\Configurations\\Extension\\ServicesExtension\\ServicesExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:54:14.275Z",
               "EditorCaption": ""
             }
           ]

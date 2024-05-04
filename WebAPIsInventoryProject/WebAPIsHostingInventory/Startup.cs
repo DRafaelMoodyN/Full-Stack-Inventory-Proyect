@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.HttpOverrides;
 namespace WebAPIsHostingInventory;
 
 public class Startup
@@ -9,11 +10,15 @@ public class Startup
 
     public IConfiguration Configuration { get; }
 
+    // Configuracion de servicios
     public void ConfigureServices(IServiceCollection services)
     {
+        services.ConfigureSqlServer(Configuration);
         services.AddControllers();
+        services.ConfigureCors();
     }
 
+    // Configuracion de middleware
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
         if (env.IsDevelopment())
@@ -22,8 +27,14 @@ public class Startup
         }
 
         app.UseHttpsRedirection();
+        app.UseStaticFiles();
+
+        app.UseForwardedHeaders(new ForwardedHeadersOptions {
+            ForwardedHeaders = ForwardedHeaders.All
+        });
 
         app.UseRouting();
+        app.UseCors("CorsPolicy");
 
         app.UseAuthorization();
 
@@ -32,7 +43,7 @@ public class Startup
             endpoints.MapControllers();
             endpoints.MapGet("/", async context =>
             {
-                await context.Response.WriteAsync("Welcome to Carlo");
+                await context.Response.WriteAsync("Welcome");
             });
         });
     }
