@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BnRH6mfjfGXMqjzrHsMUqfnPWBx46c3zyvvtfiO1Eu9cc3grMfWjwVUKGQ7j92VeMYhiB9OSYkl4HWn4lTwr5w==",
+  "dgSpecHash": "NDaMtMfwkcacsUKOVk1K/EwE78IDjl7vJ5zzEZ29MWBcd0aQaxwHEHBsWKsh5USscUuXWiyVN4MbtQmOFT/jGw==",
   "success": true,
   "projectFilePath": "C:\\Programacion\\Projectos\\Full-Stack-Inventory-Proyect\\WebAPIsInventoryProject\\WebAPIsHostingInventory\\WebAPIsHostingInventory.csproj",
   "expectedPackageFiles": [
@@ -20,10 +20,7 @@
     "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\DRMoodyN\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
     "C:\\Users\\DRMoodyN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
-    "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.27\\microsoft.netcore.app.runtime.linux-x64.6.0.27.nupkg.sha512",
-    "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.27\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.27.nupkg.sha512",
-    "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.27\\microsoft.netcore.app.crossgen2.win-x64.6.0.27.nupkg.sha512",
-    "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.27\\microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+    "C:\\Users\\DRMoodyN\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.27\\microsoft.netcore.app.crossgen2.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

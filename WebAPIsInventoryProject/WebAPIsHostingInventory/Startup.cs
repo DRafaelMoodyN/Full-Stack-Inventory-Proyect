@@ -30,7 +30,7 @@ public class Startup
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();
-            endpoints.MapGet("/carlo", async context =>
+            endpoints.MapGet("/", async context =>
             {
                 await context.Response.WriteAsync("Welcome to Carlo");
             });

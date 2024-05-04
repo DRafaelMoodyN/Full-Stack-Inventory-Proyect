@@ -38,44 +38,6 @@
           "bin/placeholder/Repository.dll": {}
         }
       }
-    },
-    "net6.0/linux-x64": {
-      "Commons/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Commons.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Commons.dll": {}
-        }
-      },
-      "Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Commons": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Models.dll": {}
-        }
-      },
-      "Repository/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Repository.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Repository.dll": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -164,11 +126,6 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "linux-x64": {
-        "#import": []
       }
     }
   }
